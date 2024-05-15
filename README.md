@@ -1,4 +1,4 @@
-# Gaussian Elimination
+# EX-06-Gaussian Elimination
 
 ## AIM:
 To write a program to find the solution of a matrix using Gaussian Elimination.
